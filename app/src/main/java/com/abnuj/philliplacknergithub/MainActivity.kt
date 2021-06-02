@@ -9,6 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         println(" this is container in my second commit")
-        today is very good day we can say it
+        akjdflasdkjfoweifjal dsfjoweijf ;lasdfoewijfaosd
     }
 }
